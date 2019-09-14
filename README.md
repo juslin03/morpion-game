@@ -9,10 +9,10 @@ Ce jeu
  .stocke un historique de jeu au fil des tours,
  .permet aux joueurs de revenir à un point quelconque de l’historique.
 
-## Visitez moi ici [https://javadart.github.io]
+## Visitez moi ici [https://juslin03.github.io]
 
 ## How run the game ?
-### git clone https://github.com/javaDart/mj_tic-tac-toe.git
-### cd mj_tic-tac-toe && npm install && npm start
+### git clone https://github.com/juslin03/morpion-game.git
+### cd morpion-game && npm install && npm start
 
 # Enjoy yoursef !!!
