@@ -16,3 +16,5 @@ Ce jeu
 ### cd morpion-game && npm install && npm start
 
 # Enjoy yoursef !!!
+
+## Jouer en ligne en cliquant sur le lien-ci [https://morpion-game.juslin.now.sh/]
