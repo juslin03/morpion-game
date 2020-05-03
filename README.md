@@ -9,7 +9,7 @@ Ce jeu
  .stocke un historique de jeu au fil des tours,
  .permet aux joueurs de revenir à un point quelconque de l’historique.
 
-## Visitez moi ici [https://juslin03.github.io]
+## Visitez moi ici [https://j2k.now.sh]
 
 ## How run the game ?
 ### git clone https://github.com/juslin03/morpion-game.git
